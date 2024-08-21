@@ -54,7 +54,3 @@ The Evolution Strategy includes:
 For any inquiries, please contact:
 - **Name**: Dinu Catalin Viorel
 - **Email**: viorel.dinu00@gmail.com
-
----
-
-This README provides a comprehensive overview of your project, including the algorithms used, installation instructions, and usage guidelines.
